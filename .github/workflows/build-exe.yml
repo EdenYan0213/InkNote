@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
@@ -42,9 +42,20 @@ jobs:
         working-directory: InkNote/src-tauri
         run: cargo build --release --features tauri/custom-protocol
 
+      - name: Collect exe
+        run: Copy-Item InkNote/src-tauri/target/release/inknote.exe InkNote-Windows-x64.exe
+
       - name: Upload exe artifact
         uses: actions/upload-artifact@v4
         with:
           name: InkNote-Windows-x64
-          path: InkNote/src-tauri/target/release/inknote.exe
+          path: InkNote-Windows-x64.exe
           if-no-files-found: error
+
+      - name: Publish to release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: patched
+          name: "Patched build (multi-window)"
+          body: "Automated build of the multi-window patched fork. Updates on every push to multi-window* branches."
+          files: InkNote-Windows-x64.exe
