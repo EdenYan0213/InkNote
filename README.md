@@ -69,7 +69,8 @@ InkNote keeps every document as a standard local Markdown file while giving you 
 ### Organize and find
 
 - Multiple workspace folders, persistent file-tree state, and file operations.
-- Document outline, recent files, and quick open.
+- Browser-style document tabs: a new-tab start page, unsaved-change dots, and middle-click to close.
+- Document outline, recent files sorted by last edit time, and quick open.
 - Find and replace in the current document.
 - Workspace-wide filename and content search with result navigation.
 
@@ -78,7 +79,7 @@ InkNote keeps every document as a standard local Markdown file while giving you 
 - Export complete documents to standalone HTML or PDF.
 - Light, dark, and system UI appearance.
 - GitHub, Vue, and Minimal Markdown themes, plus custom CSS.
-- Markdown file associations, drag-and-drop opening, and in-app update checks.
+- Markdown file associations, drag-and-drop opening (drop one or many files to edit them right away), and in-app update checks.
 - English and Simplified Chinese application interface.
 
 ## Download
@@ -91,7 +92,7 @@ InkNote keeps every document as a standard local Markdown file while giving you 
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.rpm) | x86_64 |
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.rpm) | ARM64 / aarch64 |
 
-This is a patched fork build (multi-window opening and more); release notes and older builds are on [GitHub Releases](https://github.com/UniPeacher/InkNote/releases).
+This is a patched fork build (browser-style tabs, drag-and-drop opening, edit-time recent sorting, and more); release notes and older builds are on [GitHub Releases](https://github.com/UniPeacher/InkNote/releases).
 
 ## Installation
 

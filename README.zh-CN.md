@@ -69,7 +69,8 @@ InkNote 始终以标准 Markdown 文件保存文档，同时提供接近普通�
 ### 组织与检索
 
 - 多工作区目录、文件树状态保留以及常用文件操作。
-- 文档大纲、最近文件和快速打开。
+- 浏览器式文档标签页：新标签页起始页、未保存更改以圆点提示，中键或 × 关闭。
+- 文档大纲、最近文件（按编辑时间排序）和快速打开。
 - 当前文档查找与替换。
 - 跨工作区检索文件名和文件内容，并可直接跳转到结果。
 
@@ -78,7 +79,7 @@ InkNote 始终以标准 Markdown 文件保存文档，同时提供接近普通�
 - 将完整文档导出为独立 HTML 或 PDF。
 - 亮色、暗色和跟随系统的界面外观。
 - GitHub、Vue、极简 Markdown 主题，以及自定义 CSS。
-- Markdown 文件关联、拖放打开和应用内更新检查。
+- Markdown 文件关联、拖放打开（可一次拖入多个文件直接编辑）和应用内更新检查。
 - 应用界面支持简体中文和英文。
 
 ## 下载
@@ -91,7 +92,7 @@ InkNote 始终以标准 Markdown 文件保存文档，同时提供接近普通�
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.rpm) | x86_64 |
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.rpm) | ARM64 / aarch64 |
 
-本仓库为修改版 fork（多窗口打开等改进）；更新说明和历史版本可在 [GitHub Releases](https://github.com/UniPeacher/InkNote/releases) 查看。
+本仓库为修改版 fork（浏览器式标签页、拖放直接编辑、最近文件按编辑时间排序等改进）；更新说明和历史版本可在 [GitHub Releases](https://github.com/UniPeacher/InkNote/releases) 查看。
 
 ## 安装
 

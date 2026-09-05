@@ -69,7 +69,8 @@ InkNote는 모든 문서를 표준 로컬 Markdown 파일로 보관하면서 일
 ### 정리와 검색
 
 - 여러 작업 공간 폴더, 파일 트리 상태 유지, 파일 작업.
-- 문서 개요, 최근 파일, 빠른 열기.
+- 브라우저 스타일 문서 탭: 새 탭 시작 페이지, 저장되지 않은 변경 사항은 점으로 표시, 가운데 클릭이나 × 로 닫기.
+- 문서 개요, 마지막 편집 시간순으로 정렬된 최근 파일, 빠른 열기.
 - 현재 문서에서 찾기와 바꾸기.
 - 파일 이름과 내용을 대상으로 한 작업 공간 전체 검색 및 결과 이동.
 
@@ -78,7 +79,7 @@ InkNote는 모든 문서를 표준 로컬 Markdown 파일로 보관하면서 일
 - 전체 문서를 독립형 HTML 또는 PDF로 내보내기.
 - 라이트, 다크, 시스템 연동 화면 모드.
 - GitHub, Vue, Minimal Markdown 테마와 사용자 CSS.
-- Markdown 파일 연결, 드래그 앤 드롭 열기, 앱 내 업데이트 확인.
+- Markdown 파일 연결, 드래그 앤 드롭으로 열기(여러 파일을 한 번에 놓아 바로 편집), 앱 내 업데이트 확인.
 - 앱 인터페이스는 영어와 중국어 간체를 지원합니다.
 
 ## 다운로드
@@ -91,7 +92,7 @@ InkNote는 모든 문서를 표준 로컬 Markdown 파일로 보관하면서 일
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.rpm) | x86_64 |
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.rpm) | ARM64 / aarch64 |
 
-릴리스 노트와 이전 빌드는 [GitHub Releases](https://github.com/likehao19/InkNote/releases)에서 확인할 수 있습니다.
+이 저장소는 수정된 fork 빌드입니다(브라우저 스타일 탭, 드래그 앤 드롭 편집, 최근 파일 편집 시간 정렬 등 개선 사항 포함). 릴리스 노트와 이전 빌드는 [GitHub Releases](https://github.com/UniPeacher/InkNote/releases)에서 확인할 수 있습니다.
 
 ## 설치
 
