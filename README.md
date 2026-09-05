@@ -85,19 +85,19 @@ InkNote keeps every document as a standard local Markdown file while giving you 
 
 | Platform | Package | Architecture |
 | --- | --- | --- |
-| Windows | [Installer](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Windows-x64-Setup.exe) | x64 |
+| Windows | [Installer](https://github.com/UniPeacher/InkNote/releases/download/patched/InkNote-Windows-x64.exe) | x64 |
 | macOS | [Apple silicon DMG](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-macOS-arm64.dmg) | ARM64 |
 | macOS | [Intel DMG](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-macOS-x86_64.dmg) | x86_64 |
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.rpm) | x86_64 |
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.rpm) | ARM64 / aarch64 |
 
-Release notes and older builds are available on [GitHub Releases](https://github.com/likehao19/InkNote/releases).
+This is a patched fork build (multi-window opening and more); release notes and older builds are on [GitHub Releases](https://github.com/UniPeacher/InkNote/releases).
 
 ## Installation
 
 ### Windows
 
-Download `InkNote-Windows-x64-Setup.exe` and follow the installer. The current Windows release supports x64 systems.
+Download `InkNote-Windows-x64.exe`, put it in any folder and run it directly (portable, no installer).
 
 ### macOS
 

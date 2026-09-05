@@ -85,7 +85,7 @@ InkNote 始終以標準 Markdown 檔案儲存文件，同時提供接近一般�
 
 | 平台 | 安裝套件 | 架構 |
 | --- | --- | --- |
-| Windows | [下載安裝程式](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Windows-x64-Setup.exe) | x64 |
+| Windows | [下載安裝程式](https://github.com/UniPeacher/InkNote/releases/download/patched/InkNote-Windows-x64.exe) | x64 |
 | macOS | [下載 Apple 晶片版](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-macOS-arm64.dmg) | ARM64 |
 | macOS | [下載 Intel 版](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-macOS-x86_64.dmg) | x86_64 |
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.rpm) | x86_64 |

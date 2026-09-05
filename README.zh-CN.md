@@ -85,19 +85,19 @@ InkNote 始终以标准 Markdown 文件保存文档，同时提供接近普通�
 
 | 平台 | 安装包 | 架构 |
 | --- | --- | --- |
-| Windows | [下载安装程序](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Windows-x64-Setup.exe) | x64 |
+| Windows | [下载安装程序](https://github.com/UniPeacher/InkNote/releases/download/patched/InkNote-Windows-x64.exe) | x64 |
 | macOS | [下载 Apple 芯片版](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-macOS-arm64.dmg) | ARM64 |
 | macOS | [下载 Intel 版](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-macOS-x86_64.dmg) | x86_64 |
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-x86_64.rpm) | x86_64 |
 | Linux | [AppImage](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.AppImage) · [DEB](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.deb) · [RPM](https://github.com/likehao19/InkNote/releases/latest/download/InkNote-Linux-arm64.rpm) | ARM64 / aarch64 |
 
-更新说明和历史版本可在 [GitHub Releases](https://github.com/likehao19/InkNote/releases) 查看。
+本仓库为修改版 fork（多窗口打开等改进）；更新说明和历史版本可在 [GitHub Releases](https://github.com/UniPeacher/InkNote/releases) 查看。
 
 ## 安装
 
 ### Windows
 
-下载 `InkNote-Windows-x64-Setup.exe` 并按照安装程序提示操作。当前 Windows 版本支持 x64 系统。
+下载 `InkNote-Windows-x64.exe`，放到任意目录直接运行即可（免安装）。
 
 ### macOS
 
